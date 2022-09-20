@@ -1,0 +1,84 @@
+.back {
+  background-color: #0e6598c5;
+  padding: 25px;
+
+}
+
+.head {
+  color: #FFEFD5;
+  font-size: 30px;
+  text-decoration: underline;
+  font-family: "Roboto";
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+}
+
+.p1 {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 24px;
+  font-family: "Lobster";
+  padding: 0px;
+}
+
+.p2 {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Loster;
+  padding: 0px;
+}
+
+.back2 {
+  background-color: #5abdb896;
+  background-size: cover;
+  height: 187vh;
+
+
+}
+
+.favourite-places-bg-container {
+  background-image: url("https://cdn.yashodahospitals.com/wp-content/uploads/Dr-Pragya-Rashmi-psychologist-in-hyderabad.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+.heading {
+  color: rgb(0, 0, 0);
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: bold;
+  padding: 24px;
+}
+
+.favourite-place-card-container {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 15px;
+}
+
+.main {
+  color: #182bff89;
+  font-family: "Roboto";
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.favourite-place-card-description {
+  color: #6c6b70;
+  font-family: "Roboto";
+  font-size: 13px;
+}
+
+.favourite-place-card-image {
+  width: 250px;
+  height: 250px;
+}
+
+.btn-outline-danger {
+  margin: 10px;
+}
